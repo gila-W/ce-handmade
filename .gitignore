@@ -1,0 +1,30 @@
+# קבצי מערכת
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+
+# קבצי מקור גדולים (נשארים אצלך במחשב, לא ב-Git)
+images/*.JPG
+images/*.jpg
+images/*.png
+images/*.jpeg
+images/*.cr2
+images/*.heic
+
+# שומרים רק את התמונות המוכנות לאתר
+!images/web/
+!images/web/**
+
+# קבצי עבודה זמניים
+logo-new-temp.png
+logo-*.png
+check-images.py
+
+# תמונות כפולות בתיקייה הראשית
+/*.JPG
+/*.jpg
+/*.png
