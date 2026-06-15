@@ -21,10 +21,13 @@ images/*.heic
 
 # קבצי עבודה זמניים
 logo-new-temp.png
-logo-*.png
+logo-v*.png
+logo-rect.png
+logo-bow.png
+logo-final.png
 check-images.py
 
-# תמונות כפולות בתיקייה הראשית
+# תמונות כפולות בתיקייה הראשית (לא את הלוגו!)
 /*.JPG
 /*.jpg
-/*.png
+!/logo.png
